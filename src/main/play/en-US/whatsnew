@@ -1,0 +1,3 @@
+- Fixed app crashing on certain devices due to a bug in the support library.
+- Fixed regression with Reply From Server feature.
+- Fixed POST request variable being duplicated upon every request made.
